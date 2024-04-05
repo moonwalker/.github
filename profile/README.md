@@ -1,4 +1,6 @@
-## Hi there 👋
+### TECH. DONE.
+
+Freedom to build the stack we you want.
 
 <!--
 
